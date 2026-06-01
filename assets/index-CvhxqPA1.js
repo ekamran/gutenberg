@@ -1,0 +1,1 @@
+import{u as e}from"./use-memo-one.esm-CLu33Gf9.js";import{t as r}from"./index-ByiF_c2E.js";import{r as o}from"./iframe-B2MNt5a6.js";function useThrottle(s,t,m){const u=e((()=>r(s,t??0,m)),[s,t,m]);return o.useEffect((()=>()=>u.cancel()),[u]),u}export{useThrottle as u};

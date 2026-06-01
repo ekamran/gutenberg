@@ -1,0 +1,1 @@
+import{c as r,u as t}from"./use-context-system-adSaRBKJ.js";import{P as e}from"./input-base-RW8RUYiA.js";import{c as o}from"./iframe-B2MNt5a6.js";var s=r((function UnconnectedInputControlPrefixWrapper(r,s){const n=t(r,"InputControlPrefixWrapper");return o.jsx(e,{...n,isPrefix:!0,ref:s})}),"InputControlPrefixWrapper"),n=s;export{s as I,n as i};
